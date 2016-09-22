@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package lab2;
-
-/**
- *
- * @author Carson Schultz
- */
 public class StartUp {
     public static void main(String[] args) {
         ProgrammingClass pClass = new IntroJavaCourse("IntroJ", "44568-87953");
